@@ -1,0 +1,37 @@
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-comfortaa: Comfortaa;
+  --font-rubik: Rubik;
+  --font-pixeled: Pixeled;
+
+  /* font sizes */
+  --font-size-7xs: 15px;
+  --font-size-6xs: 24px;
+  --font-size-5xs: 24.68px;
+  --font-size-4xs: 25.26px;
+  --font-size-3xs: 26.4px;
+  --font-size-2xs: 27px;
+  --font-size-xs: 30px;
+  --font-size-sm: 31.32px;
+  --font-size-base: 32.67px;
+  --font-size-lg: 33.57px;
+  --font-size-xl: 35px;
+  --font-size-2xl: 38px;
+  --font-size-3xl: 39.75px;
+  --font-size-4xl: 46.55px;
+  --font-size-5xl: 110px;
+
+  /* Colors */
+  --color-gray-100: #032638;
+  --color-gray-200: rgba(255, 255, 255, 0.1);
+  --color-gray-300: rgba(255, 255, 255, 0.7);
+  --color-gray-400: rgba(255, 255, 255, 0.8);
+  --color-white: #fff;
+  --color-gold: #ffec44;
+
+  /* border radiuses */
+  --br-sm: 10px;
+  --br-md: 28.47px;
+  --br-lg: 41.91px;
+}
